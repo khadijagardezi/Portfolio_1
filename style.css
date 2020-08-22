@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://images.pexels.com/photos/3759077/pexels-photo-3759077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+     background-size: cover;
+     background-repeat: no-repeat;
+
+}
+.h1 {
+    margin-top: 30px;
+}
+p > a > i {
+    font-size: 3rem;
+    color: rgb(10, 6, 6);
+    display: flex;
+    justify-content: space-around;
+}
+p > a > i:hover {
+    color: crimson;
+}
+
+h2 {
+    margin-left: 150px;
+    color: crimson;
+    margin-top: 10px;
+}
+.card-2 {
+    margin-top: 10px;
+    padding: 5px;
+}
+.social-buttons {
+    font-size: 21px;
+    
+}
+.links {
+    width: 20rem;
+    height: 2rem;
+    background-color: crimson;
+    color: white;
+   
+}
